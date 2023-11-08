@@ -32,7 +32,7 @@ public class Main {
         Estudante epd2 = new EstudanteDoutorado("Bruno","Rua Inverno",
                 "Tecnologia","Processamento de Imagens","Carros Inteligentes");
 
-        eg2.calc_cr(false);
+
         try {
 
     epm2.calc_cr(false);
